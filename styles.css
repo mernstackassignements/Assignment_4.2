@@ -1,0 +1,29 @@
+/*class to set background color of third element*/
+
+/*css for id top*/
+#top{
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+/*css for h1 block*/
+h1{
+    border-bottom-color: black;
+    border-bottom-style:double;
+    border-bottom-width: 1px;
+}
+
+/*css for section block*/
+section{
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+/*css for id footer*/
+#footer{
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
